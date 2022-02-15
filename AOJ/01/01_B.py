@@ -1,2 +1,3 @@
-x = input()
-print x*x*x
+x = int(input())
+num = x**3
+print (num)

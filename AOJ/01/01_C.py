@@ -1,2 +1,2 @@
-x, y = map(int, raw_input().split())
-print ("%d %d") % (x*y, (x+y)*2)
+a, b = map(int, input().split())
+print (a*b, (a+b)*2)
