@@ -1,2 +1,4 @@
 a, b = map(int, input().split())
-print (a*b, (a+b)*2)
+S = a * b
+L = (a+b) * 2
+print(S, L)

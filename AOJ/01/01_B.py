@@ -1,3 +1,3 @@
 x = int(input())
-num = x**3
-print (num)
+num = x ** 3
+print(num)
